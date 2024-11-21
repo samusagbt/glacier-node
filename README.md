@@ -24,6 +24,7 @@ mkdir glacier
 cd glacier
 
 wget https://github.com/Glacier-Labs/node-bootstrap/releases/download/v0.0.1-beta/verifier_linux_amd64
+
 wget https://glacier-labs.github.io/node-bootstrap/config.yaml
 
 nano config.yaml

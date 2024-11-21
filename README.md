@@ -16,6 +16,15 @@ Fast CPU with 2+ cores
 
 8+ MBit/sec download Internet service
 
+Claim tBNB from Discord
+Join the [BNB Chain Discord](https://discord.com/invite/bnbchain)
+Visit the BNB Chain Discord faucet channel
+Type /faucet {your receiver account} and sent.
+You will receive 0.3 tBNB in few seconds.
+
+Bridge from bnb to opBNB
+https://opbnb-testnet-bridge.bnbchain.org/
+
 
 installing:
 

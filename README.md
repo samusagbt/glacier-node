@@ -36,6 +36,7 @@ then ctrl+x+y
 screen -S glacier-node
 
 chmod +x ./verifier_linux_amd64
+
 ./verifier_linux_amd64
 
 ctrl A+D
